@@ -1,7 +1,7 @@
 name: Barnett Farm
 favicon: null
-layout_spectrum: 0.21432636375539005
-typography_spectrum: 0.4308841738384217
+layout_spectrum: 1
+typography_spectrum: 0.10718
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.7836439127568156
+  brandStrength: 0.75
   lightness: 0.9741361439228058
   saturation: 0.6188974771648645
   rhythmicContrast: 0.9716169442981482
