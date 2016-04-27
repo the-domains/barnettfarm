@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Barnett Farm]]></title>
         <description><![CDATA[Barnett Farm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/barnettfarm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 19:11:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 19:16:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/barnettfarm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to Barnett farm, where sustainable resourcing meets creativity and passion!</p>]]></description>
-            <link>undefinedwelcome-to-barnett-farm-where-sustainable-resourcing-meets/index.html</link>
+            <description><![CDATA[<p>Welcome to Barnett farm, where sustainable resourcing meets creativity and passion. We don't just want organic fresh and tantalising produce, we want to grow it from the tiny seed you find in the rich soil, and watch it grow into the luscious plants and trees where we freshly pick. Every little life, we will be grateful for, and every seed will </p>]]></description>
+            <link>https://thegrid.ai/barnettfarm/welcome-to-barnett-farm-where-sustainable-resourcing-meets/index.html</link>
             <guid isPermaLink="false">1ee1b2e6-5c72-48e4-abdb-aef766cd2903</guid>
-            <pubDate>Wed, 27 Apr 2016 19:11:33 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 19:16:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
