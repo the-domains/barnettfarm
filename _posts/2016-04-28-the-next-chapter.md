@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Next Chapter
-datePublished: '2016-04-28T08:57:10.217Z'
-dateModified: '2016-04-28T08:56:43.390Z'
+datePublished: '2016-04-28T10:46:19.989Z'
+dateModified: '2016-04-28T08:57:12.180Z'
+title: ''
+author: []
+sourcePath: _posts/2016-04-28-the-next-chapter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-04-28-the-next-chapter.md
-published: true
 url: the-next-chapter/index.html
 _type: Article
 
