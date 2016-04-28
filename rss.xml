@@ -4,8 +4,15 @@
         <description><![CDATA[Barnett Farm]]></description>
         <link>https://thegrid.ai/barnettfarm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 08:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 08:57:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/barnettfarm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Next Chapter</p>]]></description>
+            <link>https://thegrid.ai/barnettfarm/the-next-chapter/index.html</link>
+            <guid isPermaLink="false">a9216b15-33ba-4874-bf50-0a3ef9a77208</guid>
+            <pubDate>Thu, 28 Apr 2016 08:57:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is an experimental site created with the Grid artificial intelligence website creator, </p>]]></description>
