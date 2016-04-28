@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Next Chapter
-datePublished: '2016-04-28T10:46:19.989Z'
-dateModified: '2016-04-28T08:57:12.180Z'
+datePublished: '2016-04-28T11:56:51.561Z'
+dateModified: '2016-04-28T10:46:28.405Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-the-next-chapter.md
